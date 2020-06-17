@@ -11,7 +11,7 @@ This project detects where each person is in real-time, and return a bounding bo
 "This can be used by governments to analyze the movement of people and alert them if the situation turns serious."
 
 LIBRARIES INCLUDED:
-Numpy
-Matplotlib
-Open cv
+Numpy,
+Matplotlib,
+Open cv,
 Detectron2
